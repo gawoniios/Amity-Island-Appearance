@@ -1,0 +1,9 @@
+{
+  "id": "amity-appearance",
+  "name": "Amity Island Appearance",
+  "version": "1.6.0",
+  "minAppVersion": "1.5.0",
+  "description": "Amity summer 1975 appearance with embedded fonts, folder cards, BioRead compatibility, full-screen phone-only drawers and enlarged headings.",
+  "author": "Amity Island",
+  "isDesktopOnly": false
+}
